@@ -1,0 +1,17 @@
+# Secrets / local deploy config
+.env
+
+# Build output
+dist/
+*.zip
+
+# Tools build artifacts / Minecraft jars
+tools/server-1.21.4.jar
+tools/versions/
+tools/libraries/
+tools/logs/
+tools/generated-1.21.4/
+tools/generated-reports-1.21.4/
+tools/alexj-out.json
+tools/file.py
+tools/server-mappings.txt
