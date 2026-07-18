@@ -62,4 +62,4 @@ Copy `.env.example` → `.env` (gitignored) and run:
 ./tools/deploy.sh
 ```
 
-That zips the pack into `dist/DeepDarkEverywhere.zip` and uploads it via SFTP to `DEPLOY_REMOTE_PATH` on the sandbox. Use the OpenSSH key path in `.env` (not the `.ppk`); a converted sibling lives next to the PuTTY key.
+That zips the pack into `dist/AncientCities.zip` and uploads it via SFTP to `DEPLOY_REMOTE_PATH` on the sandbox. Use the OpenSSH key path in `.env` (not the `.ppk`); a converted sibling lives next to the PuTTY key.
